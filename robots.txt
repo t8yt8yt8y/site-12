@@ -1,0 +1,5 @@
+User-agent: *
+Allow: /
+Sitemap: https://zen-yoga-studio.netlify.app/sitemap.xml
+
+
